@@ -7,4 +7,4 @@ This is a rewrite of one of my previous projects for qiskit. I have acutally tes
 # Examples:
 Encrypted metasploit windows/x86/reverse_tcp payload (uniform xor encryption)
 ![Metasploit Reverse TCP Windows x86 Payload being cracked](demos/quantum_computer_output.png)
-![Script in queue to run](demos/quantum_computer_stats_1.png)
+![Script in queue to run](demos/quantum_computer_queue.png)
