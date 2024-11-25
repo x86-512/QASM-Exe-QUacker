@@ -2,7 +2,6 @@ from math import pi, asin,sqrt
 from qiskit import circuit
 from qiskit import qasm3, transpile
 from random import randint
-#from qiskit.primitives import Sampler
 from qiskit_ibm_runtime import SamplerV2 as Sampler
 from qiskit_ibm_runtime import QiskitRuntimeService
 from qiskit.circuit.library import MCMT, GroverOperator, MCXGate
